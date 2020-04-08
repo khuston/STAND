@@ -1,4 +1,4 @@
-#Bayesian Python implementation of STAND
+# Bayesian Python implementation of STAND
 
 Kyle Huston, 11 May 2016
 
